@@ -1,0 +1,35 @@
+/*Name: Hattie Miller
+Date: 11/15/2023
+File: template.css*/
+
+/*CSS reset style rule*/
+
+/* CSS Reset */
+
+/*HEADER SECTION*/
+} header h1 {
+  font-size: 3em;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding: 3%;
+  color: #373d20;
+  text-align: center;
+
+/*NAVIGATION SECTION*/
+} nav {
+  background-color: #373d20;
+
+/*BODY SECTION*/
+} body {
+    padding: 2%;
+    background-color: #717744;
+
+/*MAIN SECTION*/
+} main {
+    padding: 2%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.25em;
+    text-align: center;
+
+/*FOOTER SECTION*/
+} footer { 
+  
